@@ -1,7 +1,7 @@
 # Make sure to fill out all these questions as they will be introduced into your blog
-Monday 2nd March 2020
 
-# Monday Session - Bringing it together
+
+# Second Session - Bringing it together
 ## Commit
 - What is a commit?
 
@@ -34,7 +34,7 @@ What is the command for creating a branch?
 
 
 
-# Tuesday Session - Blog-time
+# Thrid Session - Blog-time
 ## Github Pages
 - What is Github pages?
 
@@ -46,8 +46,10 @@ What is the command for creating a branch?
 - What do i use Forking for?
 
 
-## Cloning 
-- What is best practice for cloning a repo
+## Understanding your blog
+- What type of blog do you want to create
+
+- what are some key things to demonstrate on your blog?
 
 
 

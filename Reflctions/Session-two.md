@@ -2,7 +2,7 @@
 The reflections folder will be used to record your thinking and mindset so you can visually see what you are doing and aiming for.
 
 
-## Monday Session - Problem solving
+## Second Session - Problem solving
 - What do you do when you get stuck with a problem? 
 
 - Out of the methods from the slide what one do you think you will use going forward? ( slide = https://www.canva.com/design/DAD1RtezvCE/rDnyjsiLmAKgwoIxWEBfUw/view?utm_content=DAD1RtezvCE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
@@ -11,7 +11,7 @@ Googling
 
 
 
-## Tuesday Session - Creating good habits
+## Thrid Session - Creating good habits
 - What is a habit you would like to develop? why?
 
 - What are somethings you could do to make this habit happen?

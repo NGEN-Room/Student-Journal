@@ -1,5 +1,5 @@
 # Make sure to fill out all these questions as they will be introduced into your blog
-Monday 9th March 2020
+
 
 # Monday Session - HTML & CSS
 ## HTML
