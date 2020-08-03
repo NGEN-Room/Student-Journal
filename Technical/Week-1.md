@@ -4,11 +4,13 @@
 
 ## Github
 - What is Github?
+A repository for code you can share with other programmers all over the world
 
 - What do i use Github for?
+sharing coding with others and possible open source
 
 - What do we mean when we talk about local vs online?
-
+Local is your version which you are editing and online is the master 'live' version
 
 
 ## Version Control
