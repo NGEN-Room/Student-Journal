@@ -4,6 +4,7 @@
 
 ## Github
 - What is Github?
+a platform to store code
 
 - What do i use Github for?
 
