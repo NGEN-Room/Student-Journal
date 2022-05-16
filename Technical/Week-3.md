@@ -8,7 +8,7 @@
 - what is HTMl used for?
 
 - What do these tags stand for? and can you show an example of using them ( in here is fine )
-  - '<a></a>'
+  - [<a></a>]
   - <h1></h1>
   - <h2></h2>
   - <p></p>
